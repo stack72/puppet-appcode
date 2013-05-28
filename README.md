@@ -1,9 +1,9 @@
-A puppet-module for use with boxen to install IntellIJ by JetBrains
+A puppet-module for use with boxen to install AppCode by JetBrains
 
 ## Usage
 
 ```puppet
-include intellij
+include appcode
 ```
 
 ## Required Puppet Modules
